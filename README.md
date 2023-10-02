@@ -31,9 +31,9 @@
 #### Proses Instalasi :
 Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang responsif seluler menggunakan HTML, CSS, JavaScript, dan API. Berikut ini merupakan langkah-langkah men-deploy aplikasi SHOPLANE ini :
 
-*Langkah 1:* Siapkan File aplikasi yang akan kita hosting, dengan cara mengunduh aplikasi tersebut melalui github atau bahkan dapat menggunakan aplikasi yang di develop sendiri. 
-*Langkah 2:* Jika mengambil aplikasi tersebut melalui github, maka download file aplikasi tersebut dalam bentuk file zip. <br /> 
-*Langkah 3:* Kemudian extract file zip yang telah di download agar kita dapat menggunakan ditahap selanjutnya. <br />
+*Langkah 1:* Siapkan File aplikasi yang akan kita hosting, dengan cara mengunduh aplikasi tersebut melalui github atau bahkan dapat menggunakan aplikasi yang di develop sendiri. <p align="center"><img width="960" alt="image" src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/88701579/5d8eede3-c5b1-4fd3-ba84-3b3ce2b60689"></p>
+*Langkah 2:* Jika mengambil aplikasi tersebut melalui github, maka download file aplikasi tersebut dalam bentuk file zip. <p align="center"><img width="374" alt="image" src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/88701579/ef8fc88c-6f4b-430d-bfd2-7ca5fc7eb5e9"></p> 
+*Langkah 3:* Kemudian extract file zip yang telah di download agar kita dapat menggunakan ditahap selanjutnya. <p align="center"><img width="233" alt="image" src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/88701579/5abc0627-c87b-4f13-bdfc-7ba05805e250"></p>
 *Langkah 4:* Buka web netlify.com pada peramban komputer. Setelah login maka pilih laman Team Overview. Lalu pilih button Add new site, kemudian pilih bagian Deploy Manually maka akan muncul laman untuk drag & drop folder aplikasi yang akan di deploy. Tunggu hingga proses tersebut selesai. <br />
 *Langkah 5:* 
 
