@@ -58,6 +58,61 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 # Pembahasan
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
+## Pendapat tentang Aplikasi Web ApnaTheatre
+
+Aplikasi web [ApnaTheatre](https://komdat-kel7-p3-apnatheather.netlify.app/) adalah sebuah proyek yang menawarkan layanan streaming film. Berikut adalah beberapa pendapat tentang aplikasi ini:
+
+**Kelebihan:**
+
+- **Desain Responsif**: Aplikasi ini memiliki desain yang responsif, sehingga pengguna dapat mengaksesnya dengan baik baik pada perangkat komputer maupun perangkat seluler. Ini meningkatkan kenyamanan pengguna yang ingin menonton film di berbagai perangkat.
+
+- **Tampilan Menarik**: Aplikasi ini memiliki tampilan yang cukup menarik dengan tata letak yang rapi. Hal ini membuatnya lebih atraktif bagi pengguna.
+
+- **Kualitas Streaming**: Aplikasi ini menawarkan kualitas streaming yang baik, yang akan meningkatkan pengalaman pengguna saat menonton film.
+
+**Kekurangan:**
+
+- **Konten Terbatas**: Salah satu kelemahan utama aplikasi ini mungkin adalah keterbatasan dalam hal konten yang tersedia. Dibandingkan dengan platform streaming yang lebih besar, jumlah film dan acara TV yang ditawarkan mungkin terbatas.
+
+- **Koneksi Internet**: Kualitas streaming yang baik memerlukan koneksi internet yang kuat. Pengguna dengan koneksi internet yang lambat mungkin menghadapi masalah dengan buffering atau penurunan kualitas.
+
+- **Status Hukum**: Aplikasi ini mungkin memiliki masalah terkait status hukum dan hak cipta, terutama jika kontennya tidak memiliki izin atau lisensi yang sah. Pengguna harus berhati-hati dan memeriksa legalitas penggunaan aplikasi ini.
+
+Aplikasi web ApnaTheatre memiliki potensi untuk menjadi platform streaming yang menarik dengan desain responsif dan tampilan yang menarik. Namun, keberhasilannya tergantung pada ketersediaan konten yang lebih luas dan pemenuhan ketentuan hukum. Pengguna yang ingin menggunakan aplikasi ini harus memahami batasan konten dan berkomitmen untuk mematuhi hak cipta dan peraturan yang berlaku.
+
+## Perbandingan dengan PusatFilm21
+
+**Movie Streaming Website (ApnaTheatre):**
+
+**Kelebihan:**
+
+- **Desain Responsif**: Aplikasi ini memiliki desain responsif, yang memungkinkan pengguna untuk mengaksesnya dengan baik baik pada perangkat komputer maupun perangkat seluler.
+
+- **Tampilan Menarik**: Aplikasi ini memiliki tampilan yang cukup menarik dengan tata letak yang rapi.
+
+- **Kualitas Streaming**: Aplikasi ini menawarkan kualitas streaming yang baik.
+
+**Kekurangan:**
+
+- **Konten Terbatas**: Aplikasi ini mungkin memiliki keterbatasan dalam hal konten yang tersedia, terutama jika dibandingkan dengan platform streaming yang lebih besar.
+
+- **Koneksi Internet**: Kualitas streaming yang baik memerlukan koneksi internet yang kuat.
+
+**PusatFilm21:**
+
+**Kelebihan:**
+
+- **Ketersediaan Konten**: Situs ini menyediakan banyak konten film dan TV yang dapat diakses oleh pengguna.
+
+- **Kualitas Streaming**: PusatFilm21 menawarkan kualitas streaming yang baik dengan berbagai pilihan server.
+
+- **Antarmuka Pengguna**: Situs ini memiliki antarmuka pengguna yang baik dengan fitur pencarian dan kategori yang mudah digunakan.
+
+**Kekurangan:**
+
+- **Status Hukum**: Situs ini mungkin memiliki masalah terkait status hukum dan hak cipta, terutama jika kontennya tidak memiliki izin atau lisensi yang sah.
+
+- **Kemungkinan Iklan**: Situs ini mungkin menampilkan iklan yang mengganggu bagi sebagian pengguna.
 
 
 # Referensi
