@@ -1,15 +1,5 @@
 <h1 align="center"><img src="[(https://jocular-lolly-f7be24.netlify.app/Images/TheaterLogoFinal.png)](https://jocular-lolly-f7be24.netlify.app/Images/TheaterLogoFinal.png)" ></h1>
 
-<style>
-  .custom-button {
-    background-color: #3498db;
-    color: #ffffff;
-    padding: 5px 10px;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-</style>
-
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
