@@ -1,4 +1,4 @@
-<h1 align="center"><img src="(https://jocular-lolly-f7be24.netlify.app/Images/TheaterLogoFinal.png)" ></h1>
+<h1 align="center"><img src="[(https://jocular-lolly-f7be24.netlify.app/Images/TheaterLogoFinal.png)](https://jocular-lolly-f7be24.netlify.app/Images/TheaterLogoFinal.png)" ></h1>
 
 <style>
   .custom-button {
