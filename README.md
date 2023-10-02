@@ -3,12 +3,17 @@
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
+# Anggota Kelompok
+[`^ kembali ke atas ^`](#)
 
+**Fais Fadilah Prasetyo** - G6401211057<br />
+**Lailatul Shakdiyah** - G6401211050<br />
+**Muhammad Aulia Dzikri** - G6401211059<br />
+**Tan Bima Wiragama** - G6401211085<br />
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
-
-**Prestashop** adalah sebuah CMS (*content management system*) aplikasi web *e-commerce* yang gratis dan *Open Source*. Aplikasi ini mulai beroperasi pada tahun 2005 sebagai proyek dari seorang murid *EPITECH IT School* di Paris, Perancis, yang awalnya bernama `phpOpenStore`. Hingga saat ini, **Prestashop** telah berkembang pesat dan berkomitmen untuk memberikan pengalaman berbelanja terbaik untuk para pedagang dan pelanggannya. 
+**SHOPLANE** adalah contoh tampilan E-Commerce Website yang responsif untuk perangkat seluler. Website ini dibangun menggunakan HTML, CSS, JavaScript, dan beberapa API untuk menampilkan fitur-fitur dasar dalam toko online seperti halaman beranda, kategori produk, pencarian, keranjang belanja, pembayaran, riwayat pesanan, dan tampilan yang responsif untuk perangkat seluler. Anda dapat menjelajahi produk, menambahkan produk ke keranjang belanja, dan melakukan pembayaran dalam lingkungan web ini.
 
 
 
@@ -16,123 +21,17 @@
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- Unix, Linux atau Windows.
-- Apache Web server 1.3+.
-- PHP 5.2+.
-- MySQL 5.0+.
+- Windows.
 - RAM minimal 64 Mb+
 
 #### Proses Instalasi :
-1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
-    ```
-    $ ssh adam@172.18.88.88 -p 22
-    ```
+Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang responsif seluler menggunakan HTML, CSS, JavaScript, dan API. Berikut ini merupakan langkah-langkah men-deploy aplikasi SHOPLANE ini :
 
-2. Pastikan seluruh paket sistem kita *up-to-date*, dan install seluruh kebutuhan sisrem seperti `Apache`, `PHP`, dan `MySQL`.
-    ```
-    $ sudo apt-get update
-    $ sudo apt-get install apache2
-    $ sudo apt-get install mysql-server
-    $ sudo apt-get install php
-    $ sudo apt-get install libapache2-mod-php
-    $ sudo apt-get install php-mysql
-    $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
-    $ sudo apt-get install unzip
-    ```
-
-3. Unduh **Prestashop** ke dalam direktori kita. 
-    ```
-    $ wget https://download.prestashop.com/download/releases/prestashop_1.7.0.5.zip
-    ```
-
-4. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
-    ```
-    $ sudo unzip prestashop_1.7.0.5.zip -d /var/www/html/prestashop
-    ```
-
-5. Ubah otorisasi kepemilikan ke user www-data (webserver)
-    ```
-    $ sudo chown -R www-data:www-data /var/www/html/prestashop
-    ```
-
-6. Buat database dan user untuk **Prestashop**.
-    ```
-    $ mysql -u root -p -v -e "
-        CREATE DATABASE prestashop;
-        CREATE USER 'prestashopuser'@'localhost' IDENTIFIED BY 'prestashoppassword';
-        GRANT ALL PRIVILEGES ON `prestashop`.* TO 'prestashopuser'@'localhost';
-        FLUSH PRIVILEGES;"
-    ```
-
-7. Konfigurasi Apache web server.
-    ```
-    $ sudo a2enmod rewrite
-    $ sudo touch /etc/apache2/sites-available/prestashop.conf
-    $ sudo ln -s /etc/apache2/sites-available/prestashop.conf /etc/apache2/sites-enabled/prestashop.conf
-    $ sudo nano /etc/apache2/sites-available/prestashop.conf
-
-    <VirtualHost *:80>
-    ServerAdmin admin@your-domain.com
-    DocumentRoot /var/www/html/prestashop/
-    ServerName your-domain.com
-    ServerAlias www.your-domain.com
-    <Directory /var/www/html/prestashop/>
-    Options FollowSymLinks
-    AllowOverride All
-    Order allow,deny
-    allow from all
-    </Directory>
-    ErrorLog /var/log/apache2/your-domain.com-error_log
-    CustomLog /var/log/apache2/your-domain.com-access_log common
-    </VirtualHost>
-    ```
-
-8. Edit file `etc/php/7.0/apache2/php.ini` dan tambahkan baris berikut :
-    ```
-    memory_limit = 128M
-    upload_max_filesize = 16M
-    max_execution_time = 60
-    file_uploads = On
-    allow_url_fopen = On
-    magic_quotes_gpc = Off
-    register_globals = Off
-    ```
-
-9. Restart kembali Apache web server.
-    ```
-    $ sudo service apache2 restart
-    ```
-
-10. Kunjungi alamat IP web server kita untuk meneruskan instalasi.
-    - Pilih Bahasa yang akan digunakan
-
-      ![1](https://4.bp.blogspot.com/-4Bd2ScecDIs/WNfZ0H8j3UI/AAAAAAAAGjE/9f7Knlqzgw0a0Lgd2AVQ7Qt53bI-Of8bACLcB/s1600/36.PNG)
-
-    - Setujui persyaratan yang berlaku
-
-      ![2](https://4.bp.blogspot.com/-mglU1XDt-T0/WNfZ0OJ7n8I/AAAAAAAAGjI/bG23YpPUkyEOCiozy1_Qc4TnA29bJw0lACLcB/s1600/37.PNG)
-
-    - Cek kecocokan sistem
-
-      ![3](https://3.bp.blogspot.com/-ewzlTX1qtmw/WNfZ0HTeFuI/AAAAAAAAGjM/edNiBt1f24Qt4x4sWCoCHfyo7JXWWmoZwCLcB/s1600/38.PNG)
-
-    - Isi informasi tentang toko yang kita buat
-
-      ![4](https://2.bp.blogspot.com/-Q5cCz5hyubQ/WNfZ1FZod9I/AAAAAAAAGjU/H_uUfxtZLUE11VPDafwK8jR3-aealPKcgCLcB/s1600/39.png)
-
-    - Konfigurasi database
-
-      ![5](https://1.bp.blogspot.com/-rh08nNV2Leg/WNfZ1DAaDOI/AAAAAAAAGjY/R5oIKIMI4rYjg7gO71MgR26JSMahxtpxgCLcB/s1600/40.PNG)
-
-    - Lanjutkan proses instalasi
-
-      ![6](https://3.bp.blogspot.com/-t2MrsQBYXBU/WNfZ0x4YoWI/AAAAAAAAGjQ/zOqZVNSFIpQkQjY0awofbetdEowQLdGAwCLcB/s1600/41.PNG)
-
-11. Setelah proses instalasi selesai hapus direktori install untuk alasan keamanan.
-    ```
-    $ sudo rm -rf /var/www/html/prestashop/install
-    ```
-
+**Langkah 1:** Siapkan File aplikasi yang akan kita hosting, dengan cara mengunduh aplikasi tersebut melalui github atau bahkan dapat menggunakan aplikasi yang di develop sendiri. 
+**Langkah 2:** Jika mengambil aplikasi tersebut melalui github, maka download file aplikasi tersebut dalam bentuk `file zip`. <br /> 
+**Langkah 3:** Kemudian extract `file zip` yang telah di download agar kita dapat menggunakan ditahap selanjutnya. <br />
+**Langkah 4:** Buka web `netlify.com` pada peramban komputer. Setelah login maka pilih laman Team Overview. Lalu pilih button `Add new site`, kemudian pilih bagian `Deploy Manually` maka akan muncul laman untuk drag & drop folder aplikasi yang akan di deploy. Tunggu hingga proses tersebut selesai. <br />
+**Langkah 5:** 
 
 
 # Konfigurasi
