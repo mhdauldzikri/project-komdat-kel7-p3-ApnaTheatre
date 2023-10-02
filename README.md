@@ -1,4 +1,4 @@
-![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/95265448/1752865a-6024-46f4-b21f-90ba45cfbeef)<h1 align="center"><img src="https://raw.githubusercontent.com/QAZIMAAZARSHAD/Movie-Streaming-Website/master/Images/Logo/TheaterLogo.png" ></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/QAZIMAAZARSHAD/Movie-Streaming-Website/master/Images/Logo/TheaterLogo.png" ></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -39,9 +39,8 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 *Langkah 6:* Pilih bagian Deploy Manually lalu click. <p align="center"><img src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/95265448/2169b62e-edd4-4969-a4e0-7b669d51cc98"></p>
 *Langkah 7:* Laman untuk drag & drop folder aplikasi yang akan di deploy akan muncul, lalu drop file zip yang telah kalian ekstrak. <p align="center"><img src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/95265448/54c065d9-d8c3-4d82-baaa-c31ea905acf3"></p>
 *Langkah 8:* Tunggu hingga proses tersebut selesai, lalu click 'site overview' dan click hyperlink web anda. <p align="center"><img src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/95265448/70c09f75-2f50-4010-b898-e517a758dcea"></p>
-*Langkah 9:* Proses deploy selesai
- 
-<\br>
+*Langkah 9:* Proses deploy selesai. <p align="center"><img width="960" alt="image" src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/88701579/cb0a82a9-3d21-4a2f-a112-11dc69e69c62"></p>
+
 
 # Konfigurasi
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
