@@ -18,7 +18,7 @@
 # Sekilas Tentang
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
-*SHOPLANE* adalah contoh tampilan E-Commerce Website yang responsif untuk perangkat seluler. Website ini dibangun menggunakan HTML, CSS, JavaScript, dan beberapa API untuk menampilkan fitur-fitur dasar dalam toko online seperti halaman beranda, kategori produk, pencarian, keranjang belanja, pembayaran, riwayat pesanan, dan tampilan yang responsif untuk perangkat seluler. Anda dapat menjelajahi produk, menambahkan produk ke keranjang belanja, dan melakukan pembayaran dalam lingkungan web ini.
+**ApnaTheatre** adalah situs web streaming film yang menyediakan berbagai macam film, acara TV, dan seri web dari berbagai genre, seperti Kejahatan, Komedi, Drama, Dokumenter, Horor, Anime, Romansa, Perang, Aksi, Fantasi, dan konten untuk anak-anak. Situs web ini memiliki fitur-fitur yang membuatnya mudah digunakan dan menawarkan kualitas streaming yang tinggi. Pengguna dapat mendaftar, masuk, dan mulai menikmati hiburan favorit mereka di mana saja dan kapan saja. Juga, kontribusi dari komunitas diterima, termasuk pelaporan bug dan saran perbaikan. Proyek ini dilisensikan di bawah 'Lisensi MIT'.
 
 
 # Instalasi
