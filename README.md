@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/QAZIMAAZARSHAD/Movie-Streaming-Website/master/Images/Logo/TheaterLogo.png" ></h1>
 
 [Anggota kelompok](#anggota-kelompok) | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) |:
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 # Anggota Kelompok
@@ -18,14 +18,18 @@
 # Sekilas Tentang
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
+### Pendahuluan :
 **ApnaTheatre** adalah situs web streaming film yang menyediakan berbagai macam film, acara TV, dan seri web dari berbagai genre, seperti Kejahatan, Komedi, Drama, Dokumenter, Horor, Anime, Romansa, Perang, Aksi, Fantasi, dan konten untuk anak-anak. Situs web ini memiliki fitur-fitur yang membuatnya mudah digunakan dan menawarkan kualitas streaming yang tinggi. Pengguna dapat mendaftar, masuk, dan mulai menikmati hiburan favorit mereka di mana saja dan kapan saja. Juga, kontribusi dari komunitas diterima, termasuk pelaporan bug dan saran perbaikan. Proyek ini dilisensikan di bawah `Lisensi MIT`.
 
+### Link Website :
+https://komdat-kel7-p3-apnatheather.netlify.app/
 
 # Instalasi
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
 #### Kebutuhan Sistem :
-- Windows.
+- Windows, Unix, Linux
+- Chrome, Firefox, Opera, Safari
 - RAM minimal 64 Mb+
 
 #### Proses Instalasi :
