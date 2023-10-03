@@ -77,33 +77,32 @@ Setelah login, user akan masuk kedalam halaman home page. Pada halaman ini user 
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/6a579f06-391c-4b8c-ae9f-f54c43b58d92)
 
 
-- **Memilih Genre Film**
-<br/>
+- **Memilih Genre Film**<br/>
+
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/20ab5197-361e-4cde-b820-6d08c7211854)
 
 
-- **Search Film**
-<br/>
+- **Search Film**<br/>
+
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/63989430-8a90-4264-9282-ce46a0f99f99)
 
 
-- **Memilih Movies**
-<br/>
+- **Memilih Movies**<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/0015646c-433c-40a0-80ae-759f7b82caf0)
 
 
-- **Memilih Web Series**
-<br/>
+- **Memilih Web Series**<br/>
+
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/31004e1c-4aed-4301-9a46-4eb24663788d)
 
 
-- **Memilih Kids**
-<br/>
+- **Memilih Kids**<br/>
+
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/3f78ff68-eff4-4e03-afcb-1289da5b5fa1)
 
 
-- **Memiliih TV**
-<br/>
+- **Memiliih TV**<br/>
+
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/470dad82-33e8-4da2-8336-fa0a1f901400)
 
 
