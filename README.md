@@ -30,7 +30,8 @@ https://komdat-kel7-p3-apnatheather.netlify.app/
 #### Kebutuhan Sistem :
 - Windows, Unix, Linux
 - Chrome, Firefox, Opera, Safari
-- RAM minimal 64 Mb+
+- Javascript, HTML, CSS
+- Hosting Menggunakan Netlify
 
 #### Proses Instalasi :
 Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang responsif seluler menggunakan HTML, CSS, JavaScript, dan API. Berikut ini merupakan langkah-langkah men-deploy aplikasi SHOPLANE ini :
