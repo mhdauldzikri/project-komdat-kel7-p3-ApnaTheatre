@@ -42,18 +42,6 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 *Langkah 9:* Proses deploy selesai. <p align="center"><img width="960" alt="image" src="https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/88701579/cb0a82a9-3d21-4a2f-a112-11dc69e69c62"></p>
 
 
-# Konfigurasi
-[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
-
-# Maintenance
-[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
-
-
-# Otomatisasi
-[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
-
-
-
 # Cara Pemakaian
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 <br/>
@@ -182,3 +170,6 @@ Aplikasi web ApnaTheatre memiliki potensi untuk menjadi platform streaming yang 
 
 # Referensi
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
+
+1. [Web utama ApnaTheatre](https://qazimaazarshad.github.io/Movie-Streaming-Website/)
+2. [Github ApnaTheatre](https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website)
