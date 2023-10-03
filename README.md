@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/QAZIMAAZARSHAD/Movie-Streaming-Website/master/Images/Logo/TheaterLogo.png" ></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Anggota kelompok](#anggota-kelompok) | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) |:
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
