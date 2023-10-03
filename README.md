@@ -60,48 +60,58 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 Aplikasi Web ApnaTheatre ini memungkinkan penggunanya agar dapat menonton film yang diinginkan. Dengan jumlah film yang banyak dan terdiri dari berbagai jenis genre membuat web ini dapat menjadi alternatif bagi para pecinta dunia perfilman. Berikut langkah yang dapat user lakukan untuk menikmati web ini:
 
 **Langkah Pertama**
+<br/>
 Pada lama awal aplikasi web ini, kita dapat menekan tombol login untuk memulai memasuki aplikasi web ini.
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/6e456633-7777-4b3e-87c2-f55d383cab55)
 
 
 **Langkah kedua**
+<br/>
 Setelah memasuki halaman login, jika sudah memiliki akun silahkan untuk memasukkan email beserta password yang sesuai. Jika belum memiliki akun, user dapat mendaftar untuk mendapatakan akun.
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/e66dd681-a220-4187-a477-88ec38e1d084)
 
 
 **Langkah Ketiga**
+<br/>
 Setelah login, user akan masuk kedalam halaman home page. Pada halaman ini user sudah dapat melihat film-film yang dapat ditonton. Pada bagian header, tersapat beberapa opsi yang dapat dipilih oleh user, seperti:
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/6a579f06-391c-4b8c-ae9f-f54c43b58d92)
 
 
-**Memilih Genre Film**
+- **Memilih Genre Film**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/20ab5197-361e-4cde-b820-6d08c7211854)
 
 
-**Search Film**
+- **Search Film**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/63989430-8a90-4264-9282-ce46a0f99f99)
 
 
-**Memilih Movies**
+- **Memilih Movies**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/0015646c-433c-40a0-80ae-759f7b82caf0)
 
 
-**Memilih Web Series**
+- **Memilih Web Series**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/31004e1c-4aed-4301-9a46-4eb24663788d)
 
 
-**Memilih Kids**
+- **Memilih Kids**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/3f78ff68-eff4-4e03-afcb-1289da5b5fa1)
 
 
-**Memiliih TV**
+- **Memiliih TV**
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/470dad82-33e8-4da2-8336-fa0a1f901400)
 
 
 **Langkah Keempat**
+<br/>
 Setelah menemukan film yang ingin ditonton, user dapat melihat trailer dari film tersebut. User juga dapat langsung menonton dengan menekan tombol play.
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/05cfb5d2-34d9-4a7f-998a-00a2d8df46a9)
-
+<br/>
 ![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/c36ef5de-c77e-43d5-9969-32edf544eb98)
 
 
