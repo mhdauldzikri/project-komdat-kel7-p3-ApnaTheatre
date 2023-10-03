@@ -147,7 +147,7 @@ Aplikasi web ApnaTheatre memiliki potensi untuk menjadi platform streaming yang 
 
 - **Tampilan Menarik**: Aplikasi ini memiliki tampilan yang cukup menarik dengan tata letak yang rapi.
 
-- **Kualitas Streaming**: Aplikasi ini menawarkan kualitas streaming yang baik.
+- **Terdapat Trailer**: Pada aplikasi ini kita dapat melihat trailer terlebih dahulu.
 
 **Kekurangan:**
 
