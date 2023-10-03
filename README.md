@@ -61,6 +61,8 @@ Aplikasi Web ApnaTheatre ini memungkinkan penggunanya agar dapat menonton film y
 
 **Langkah Pertama**
 Pada lama awal aplikasi web ini, kita dapat menekan tombol login untuk memulai memasuki aplikasi web ini.
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/6e456633-7777-4b3e-87c2-f55d383cab55)
+
 
 **Langkah kedua**
 Setelah memasuki halaman login, jika sudah memiliki akun silahkan untuk memasukkan email beserta password yang sesuai. Jika belum memiliki akun, user dapat mendaftar untuk mendapatakan akun.
