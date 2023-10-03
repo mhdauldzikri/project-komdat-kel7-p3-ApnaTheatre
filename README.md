@@ -59,6 +59,34 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 Aplikasi Web ApnaTheatre ini memungkinkan penggunanya agar dapat menonton film yang diinginkan. Dengan jumlah film yang banyak dan terdiri dari berbagai jenis genre membuat web ini dapat menjadi alternatif bagi para pecinta dunia perfilman. Berikut langkah yang dapat user lakukan untuk menikmati web ini:
 
 **Langkah Pertama**
+Pada lama awal aplikasi web ini, kita dapat menekan tombol login untuk memulai memasuki aplikasi web ini.
+
+**Langkah kedua**
+Setelah memasuki halaman login, jika sudah memiliki akun silahkan untuk memasukkan email beserta password yang sesuai. Jika belum memiliki akun, user dapat mendaftar untuk mendapatakan akun.
+
+**Langkah Ketiga**
+Setelah login, user akan masuk kedalam halaman home page. Pada halaman ini user sudah dapat melihat film-film yang dapat ditonton. Pada bagian header, tersapat beberapa opsi yang dapat dipilih oleh user, seperti:
+
+**Memilih Genre Film**
+
+**Search Film**
+
+**Memilih Movies**
+
+**Memilih Web Series**
+
+**Memilih Kids**
+
+**Memiliih TV**
+
+**Langkah Keempat**
+Setelah menemukan film yang ingin ditonton, user dapat melihat trailer dari film tersebut. User juga dapat langsung menonton dengan menekan tombol play.
+
+
+
+
+Itu tadi merupakan langkah sederhana dalam menggunakan Aplikasi Web ini. Kemudahan dalam Experience dari aplikasi ini dapat meningkatkan value dari aplikasi ini tersendiri.
+
 
 
 
