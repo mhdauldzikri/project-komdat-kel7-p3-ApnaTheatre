@@ -56,6 +56,9 @@ Dalam contoh ini, kita akan membuat antarmuka dari Situs Web E-Commerce yang res
 
 # Cara Pemakaian
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
+Aplikasi Web ApnaTheatre ini memungkinkan penggunanya agar dapat menonton film yang diinginkan. Dengan jumlah film yang banyak dan terdiri dari berbagai jenis genre membuat web ini dapat menjadi alternatif bagi para pecinta dunia perfilman. Berikut langkah yang dapat user lakukan untuk menikmati web ini:
+
+**Langkah Pertama**
 
 
 
