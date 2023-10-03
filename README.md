@@ -66,25 +66,43 @@ Pada lama awal aplikasi web ini, kita dapat menekan tombol login untuk memulai m
 
 **Langkah kedua**
 Setelah memasuki halaman login, jika sudah memiliki akun silahkan untuk memasukkan email beserta password yang sesuai. Jika belum memiliki akun, user dapat mendaftar untuk mendapatakan akun.
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/e66dd681-a220-4187-a477-88ec38e1d084)
+
 
 **Langkah Ketiga**
 Setelah login, user akan masuk kedalam halaman home page. Pada halaman ini user sudah dapat melihat film-film yang dapat ditonton. Pada bagian header, tersapat beberapa opsi yang dapat dipilih oleh user, seperti:
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/6a579f06-391c-4b8c-ae9f-f54c43b58d92)
+
 
 **Memilih Genre Film**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/20ab5197-361e-4cde-b820-6d08c7211854)
+
 
 **Search Film**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/63989430-8a90-4264-9282-ce46a0f99f99)
+
 
 **Memilih Movies**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/0015646c-433c-40a0-80ae-759f7b82caf0)
+
 
 **Memilih Web Series**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/31004e1c-4aed-4301-9a46-4eb24663788d)
+
 
 **Memilih Kids**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/3f78ff68-eff4-4e03-afcb-1289da5b5fa1)
+
 
 **Memiliih TV**
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/470dad82-33e8-4da2-8336-fa0a1f901400)
+
 
 **Langkah Keempat**
 Setelah menemukan film yang ingin ditonton, user dapat melihat trailer dari film tersebut. User juga dapat langsung menonton dengan menekan tombol play.
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/05cfb5d2-34d9-4a7f-998a-00a2d8df46a9)
 
+![image](https://github.com/mhdauldzikri/project-komdat-kel7-p3-ApnaTheatre/assets/117631588/c36ef5de-c77e-43d5-9969-32edf544eb98)
 
 
 
