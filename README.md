@@ -115,7 +115,7 @@ Setelah menemukan film yang ingin ditonton, user dapat melihat trailer dari film
 
 
 
-Itu tadi merupakan langkah sederhana dalam menggunakan Aplikasi Web ini. Kemudahan dalam Experience dari aplikasi ini dapat meningkatkan value dari aplikasi ini tersendiri.
+Penjelasan diatas merupakan langkah sederhana dalam menggunakan Aplikasi Web ini. Kemudahan dalam Experience dari aplikasi ini dapat meningkatkan value dari aplikasi ini tersendiri.
 
 
 
